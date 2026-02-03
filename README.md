@@ -92,20 +92,3 @@ This laboratory work successfully demonstrated the deployment of a Hadoop cluste
 using Python and Hadoop Streaming.
 The experiment confirmed that MapReduce execution time grows with input size, highlighting the scalability characteristics of distributed data processing systems.
 
----
-
-## Repository Structure
-```
-.
-├── mapper.py
-├── reducer.py
-├── README.md
-└── report.pdf
-```
-
----
-
-## Status
-✔ Lab completed  
-✔ Experiment performed  
-✔ Ready for submission  
